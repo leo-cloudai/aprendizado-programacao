@@ -15,3 +15,7 @@ Este repositório documenta minha jornada de aprendizado rumo a me tornar um Clo
 - Sequência lógica
 - Entrada → Processamento → Saída
 - Exercícios práticos (café, escovar dentes, calcular idade)
+
+## Dia 1 – Lógica de Programação
+- [Atividades – Algoritmos](dia01/algoritmos.txt)
+- [Diário – Reflexões](dia01/diario.md)
