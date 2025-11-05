@@ -20,4 +20,7 @@ Este repositório documenta minha jornada de aprendizado rumo a me tornar um Clo
 - [Atividades – Algoritmos](dia01/algoritmos.txt)
 - [Diário – Reflexões](dia01/diario.md)
 
-Meta: Variáveis e tipos de dados (Dia 2)
+## Dia 2 – Variáveis e Tipos de Dados (em progresso)
+- Entender o que é uma variável
+- Identificar tipos de dados básicos (texto, número, booleano)
+- Criar exemplos reais
