@@ -1,0 +1,18 @@
+Dia 2 — Variáveis e Tipos de Dados
+
+# Variáveis do meu dia a dia
+nome = “leo_cloudai”
+idade = 29
+moto = “Bros NXR 160ESDD 2020”
+quilometragem = 60000
+tem_carteira_de_motorista = verdadeiro
+
+# Classificação de tipos
+1500 -> inteiro
+"Cloud Data Engineer" -> texto
+3.14 -> decimal
+verdadeiro -> booleano
+"2025" -> texto
+
+# O que é uma variável?
+Uma variável serve para guardar dados que podem ser alterados durante o desenvolvimento ou execução do programa.
